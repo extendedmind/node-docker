@@ -1,4 +1,4 @@
-FROM node:4
+FROM node:5
 
 MAINTAINER "Timo Tiuraniemi <timo.tiuraniemi@iki.fi>"
 
